@@ -5,9 +5,9 @@
 GRAPPLE!
 ============================================
 
-A scratch written (chrome extension compatible) social network platform that allows users to store, share and organize text, audio, video, urls. Storable items are called "apples" or "grapples". (Written in html/php/js/css)
+A scratch written (chrome extension compatible) social network platform that allows users to store, share and organize text, audio, video, urls and images. Storable items are called "apples" or "grapples". (Written in html/php/js/css)
 
-With chrome extension compatibility, when you want to save either text, video, url, image or audio to your grapple profile, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audo, text, image), and grappling it to your grapple profile, with a custom name etc.
+With chrome extension compatibility, when you want to save either text, video, url, image or audio to your grapple profile, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audio, text, image, url, video), and grappling it to your grapple profile, with a custom name etc.
 
 Php is used to generate the entire user based ui dynamically, and this was my first attempt at writitng a soial network in 2013 and this is a bit slow!
 
@@ -57,7 +57,7 @@ PROFILE PAGE\MY COCKTAIL
 ============================================
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.4.png "default page")
 
-"My Cocktail" is the 1'st tab, and lists only your grapples (whoever is signed in on your browser):
+"My Cocktail" is the 2'nd tab, and lists only your grapples (whoever is signed in on your browser):
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_1.png "default page")
 
@@ -78,6 +78,7 @@ PROFILE PAGE\VINEYARD
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_3.png "default page")
 
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/text_icon.png "default page")
 
 USAGE, GRAPPLING SOME TEXT
 ============================================
@@ -96,6 +97,40 @@ USAGE, GRAPPLING SOME TEXT
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_2.png "default page")
 
-5. Closing popup, and reloading profile page, you will see the new text item in your cocktail, after you click "plus" on text category and scroll down to it:
+5. Closing popup, and reloading profile page, you will see the new text item in your "my cocktail" section (5'th tab), after you click "plus" on text category and scroll down to it:
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_3.png "default page")
+
+
+6. You can maximize each text grapple item, by clicking on it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_4.png "default page")
+
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/audio_icon.png "default page")
+
+USAGE, GRAPPLING SOME AUDIO
+============================================
+
+1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
+
+2. Find some audio, highlight with mouse, and right click. You should see grapple option popup, with "audio-grapple it!" command:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_0.png "default page")
+
+3. Simply supply details to the popup, like a title etc:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_1.png "default page")
+
+4. You should now see "grappled!" message on popup. 
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_2.png "default page")
+
+5. Closing popup, and reloading profile page, you will see the new audio item in your "my cocktail" section (5'th tab), after you click "plus" on text category and scroll down to it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_3.png "default page")
+
+
+6. You can maximize each audio grapple item, by clicking on it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_4.png "default page")
