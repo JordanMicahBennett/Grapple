@@ -11,7 +11,7 @@ With chrome extension compatibility, when you want to save either text, video, u
 
 Php is used to generate the entire user based ui dynamically, and this was my first attempt at writitng a soial network in 2013 and this is a bit slow!
 
-See a similar, fast, scratch written neural network by myself, called [soulify](https://github.com/JordanMicahBennett/SOULIFY), written a year later in 2014.
+See a similar, fast, scratch written neural network by myself, called [soulify](https://github.com/JordanMicahBennett/SOULIFY), written a year later in 2014 (Note that soulify is not as document as this grapple Readme!).
 
 
 
@@ -114,7 +114,7 @@ USAGE, GRAPPLING SOME AUDIO
 
 1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
 
-2. Find some audio, highlight with mouse, and right click. You should see grapple option popup, with "audio-grapple it!" command:
+2. Find some audio, and right click next to the audio on the web page. You should see grapple option popup, with "audio-grapple it!" command:
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_0.png "default page")
 
@@ -133,4 +133,33 @@ USAGE, GRAPPLING SOME AUDIO
 
 6. You can maximize each audio grapple item, by clicking on it:
 
-![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_4.png "default page")
+
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_4.png "default page")
+
+
+USAGE, GRAPPLING SOME VIDEO
+============================================
+
+1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
+
+2. Find some video, and right click any empty space on the page where your video is. You should see grapple option popup, with "video-grapple it!" command:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_0.png "default page")
+
+3. Simply supply details to the popup, like a title etc:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_1.png "default page")
+
+4. You should now see "grappled!" message on popup. 
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_2.png "default page")
+
+5. Closing popup, and reloading profile page, you will see the new video item in your "my cocktail" section (5'th tab), after you click "plus" on text category and scroll down to it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_3.png "default page")
+
+
+6. You can maximize each video grapple item, by clicking on it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_4.png "default page")
