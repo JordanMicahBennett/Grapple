@@ -29,7 +29,7 @@ SETUP
 
 	b. Go to extensions/load unpacked.
 
-	c. Browse to grapple/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source code/src/grapple'.chrome.extension folder.
+	c. Browse to [grapple/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source code/src/grapple'.chrome.extension](https://github.com/JordanMicahBennett/Grapple/tree/master/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source%20code/src/grapple'.chrome.extension) folder.
 
 	d. You're adding the folder, so once you reach "grapple'.chrome.extension" above, click okay.
 
@@ -76,16 +76,16 @@ USAGE, GRAPPLING SOME TEXT
 
 2. Find some text, highlight with mouse, and right click. You should see grapple option popup, with "text-grapple it!" command:
 
-![Alt text]( usage_textGrapple_0 "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_0.png "default page")
 
 3. Simply supply details to the popup, like a title etc:
 
-![Alt text]( usage_textGrapple_1 "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_1.png "default page")
 
 4. You should now see "grappled!" message on popup. 
 
-![Alt text]( usage_textGrapple_2 "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_2.png "default page")
 
 5. Closing popup, and reloading profile page, you will see the new text item in your cocktail, after you click "plus" on text category and scroll down to it:
 
-![Alt text]( usage_textGrapple_3 "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_textGrapple_3.png "default page")
