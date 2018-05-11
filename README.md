@@ -237,11 +237,13 @@ RUNNING GRAPPLE ONLINE, INSTEAD OF LOCALHOST
 
 To run grapple online, in somewhere like godaddy, instead of on xamp/localhost, you'll need to adjust the source source code in the chrome extension, and the php modules, so that the they are updated with the new server directories and or database connection settings:
 
-1. Adjust function "generateGrappleActionResponse" in file  [grapple/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source code/src/grapple'.chrome.extension/data/js/rightClick.js](https://github.com/JordanMicahBennett/Grapple/tree/master/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source%20code/src/grapple'.chrome.extension/data/js/rightClick.js), by replacing "https://localhost/ portion of url with whatever your online server url/domain is.
+1. Adjust function "generateGrappleActionResponse" in file  [grapple/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source code/src/grapple'.chrome.extension/data/js/rightClick.js](https://github.com/JordanMicahBennett/Grapple/tree/master/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source%20code/src/grapple'.chrome.extension/data/js/rightClick.js), by replacing "https://localhost/ portion of url with whatever your online server url/domain is. 
+
+(You will need to do the above before adding the extension to chrome as directed in the SETUP section earlier above)
 
 2. Adjust all php files where applicable, in directory [grapple/data/modules/php](https://github.com/JordanMicahBennett/Grapple/tree/master/data/modules/php/) by replacing connection details with whatever your online server sql details are.
 
-3. Additionally, adjust variable "$serverHomeUrl" in file [grapple/data/modules/php/_module.new.entry.php](https://github.com/JordanMicahBennett/Grapple/tree/master/data/modules/php/_module.new.entry.php) by replacing serverHomeUrl with whatever your online server server url is.
+3. Additionally, adjust variable "$serverHomeUrl" in file [grapple/data/modules/php/_module.new.entry.php](https://github.com/JordanMicahBennett/Grapple/tree/master/data/modules/php/_module.new.entry.php) by replacing serverHomeUrl with whatever your online server server url is. (If this is not done properly, remember that your users won't be able to upoad profile pictures!)
 
 
 Enjoy.
