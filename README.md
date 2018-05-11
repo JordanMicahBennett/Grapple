@@ -9,7 +9,7 @@ A scratch written (chrome extension compatible) social network platform that all
 
 With chrome extension compatibility, when you want to save either text, video, url, image or audio to your grapple profile, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audio, text, image), and grappling it to your grapple profile, with a custom name etc.
 
-Apart from the large high quality image background image file used on website, php is tyrannically used to generate the entire user based ui dynamically, and this was my first attempt at writting a social network in 2013 and this is a bit slow!
+Apart from the large high quality background image file used on website, php is tyrannically used to generate the entire user based ui dynamically, and this was my first attempt at writting a social network in 2013 and this is a bit slow!
 
 See a similar, fast, scratch written neural network by myself, called [soulify](https://github.com/JordanMicahBennett/SOULIFY), written a year later in 2014 (Note that soulify is not as documented as this grapple Readme!).
 
