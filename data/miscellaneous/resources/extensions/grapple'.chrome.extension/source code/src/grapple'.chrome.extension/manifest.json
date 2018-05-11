@@ -1,0 +1,17 @@
+{
+  "name": "grapple extension 1.0.1.0'",
+  "description": "Tastily save your universe..",
+  "version": "1.0.1.0",
+  "manifest_version": 2,
+  "permissions": ["contextMenus"],
+  "background": 
+		  {
+			"scripts": ["data/js/rightClick.js"]
+		  },
+  "icons": 
+		  { 
+			  "16": "data/images/grappl.icon.png",
+			  "48": "data/images/grappl.icon.png",
+			  "128": "data/images/grappl.icon.png" 
+		  }
+}

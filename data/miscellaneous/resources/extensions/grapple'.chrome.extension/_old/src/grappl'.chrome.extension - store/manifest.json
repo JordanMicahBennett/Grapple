@@ -1,0 +1,18 @@
+{
+  "name": "grappl extension 1.0.0.4'",
+  "description": "Tastily save your universe..",
+  "version": "1.0.0.4",
+  "manifest_version": 2,
+  "short_name": grappl
+  "permissions": ["contextMenus"],
+  "background": 
+		  {
+			"scripts": ["data/js/rightClick.js"]
+		  },
+  "icons": 
+		  { 
+			  "16": "data/images/grappl.icon.png",
+			  "48": "data/images/grappl.icon.png",
+			  "128": "data/images/grappl.icon.png" 
+		  }
+}
