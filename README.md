@@ -245,6 +245,8 @@ To run grapple online, in somewhere like godaddy, instead of on xamp/localhost, 
 
 3. Additionally, adjust variable "$serverHomeUrl" in file [grapple/data/modules/php/_module.new.entry.php](https://github.com/JordanMicahBennett/Grapple/tree/master/data/modules/php/_module.new.entry.php) by replacing serverHomeUrl with whatever your online server server url is. (If this is not done properly, remember that your users won't be able to upoad profile pictures!)
 
+4. Finally, instead of going to [localhost/grapple](http://localhost/grapple/), to sign in and grapple stuff, you would of course, instead go to whatever your online domain is.
+
 
 Enjoy.
 
