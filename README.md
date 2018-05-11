@@ -43,7 +43,7 @@ SETUP
 
 PROFILE PAGE
 ============================================
-When you sign in, you'll be presented with your profile page, with some usable components, including "cocktail" , "my cocktail", and vineyard. For every section, the plus icon reveals actual grapples below the categories (text,...) listed. All grapples have a source button, so you can return to the source of your grapple.
+When you sign in, you'll be presented with your profile page, with some usable components, including "cocktail" , "my cocktail", and "vineyard". For every section, the plus icon reveals actual grapples below the categories (text,...) listed. All grapples have a source button, so you can always return to the source of your grapple.
 
 PROFILE PAGE\COCKTAIL
 ============================================
