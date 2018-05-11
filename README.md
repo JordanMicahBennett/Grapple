@@ -25,15 +25,15 @@ REQUIREMENTS
 
 SETUP
 ============================================
-1. Add grapple extension to your browser:
+1. Add grapple extension to your chrome browser:
 
-b. Go to extensions/load unpacked.
+	b. Go to extensions/load unpacked.
 
-c. Browse to grapple/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source code/src/grapple'.chrome.extension folder.
+	c. Browse to grapple/data/miscellaneous/resources/extensions/grapple'.chrome.extension/source code/src/grapple'.chrome.extension folder.
 
-d. You're adding the folder, so once you reach "grapple'.chrome.extension" above, click okay.
+	d. You're adding the folder, so once you reach "grapple'.chrome.extension" above, click okay.
 
-e. You should now see the extension added to chrome:
+	e. You should now see the extension added to chrome:
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/setup_extension_added.png "default page")
 
