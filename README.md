@@ -7,7 +7,7 @@ GRAPPLE!
 
 A scratch written (chrome extension compatible) social network platform that allows users to store, share and organize text, audio, video, urls. Storable items are called "apples" or "grapples". (Written in html/php/js/css)
 
-With chrome extension compatibility, when you want to save either text, video, url, image or audio, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audo, text, image), and grappling it to your grapple profile, with a custom name etc.
+With chrome extension compatibility, when you want to save either text, video, url, image or audio to your grapple profile, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audo, text, image), and grappling it to your grapple profile, with a custom name etc.
 
 Php is used to generate the entire user based ui dynamically, and this was my first attempt at writitng a soial network in 2013 and this is a bit slow!
 
@@ -18,7 +18,7 @@ REQUIREMENTS
 ============================================
 
 1. Install [xamp](https://www.apachefriends.org/index.html).
-2. Extract grapple source code, and place grapple folder in C. (Do this precisely, to avoid renaming serverhome url prefixes, responsible for collecting profile pictures at sign up)
+2. Extract grapple source code, and place grapple folder in C Drive. (Do this precisely, to avoid renaming serverhome url prefixes, responsible for collecting profile pictures at sign up. If you don't have C drive, you'll have to rename "$serverHomeUrl" in ["data/modules/php/_module.new.entry.php"](https://github.com/JordanMicahBennett/Grapple/blob/master/data/modules/php/_module.new.entry.php) to whatever your xamp installation is.)
 3. Run localhost/grapple in chrome browser.
 
 
