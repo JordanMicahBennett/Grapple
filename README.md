@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/core/res/grapplSymbol.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/core/grapple.favicon.png "default page")
 
 
 
