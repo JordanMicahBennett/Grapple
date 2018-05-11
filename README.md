@@ -58,7 +58,7 @@ PROFILE PAGE\MY COCKTAIL
 ============================================
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.4.png "default page")
 
-"My Cocktail" is the 5'th tab, and lists only your grapples (whoever is signed in on your browser):
+"My Cocktail" is the 5'th tab, and lists only your grapples (grapples belonging to whomever is signed in on your browser):
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_1.png "default page")
 
@@ -66,7 +66,7 @@ PROFILE PAGE\BUNCH
 ============================================
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.5.png "default page")
 
-"Bunch" is the 6'th tab, and lists everybody who signed up on grapple, aka it lists al grapple users:
+"Bunch" is the 6'th tab, and lists everybody who signed up on grapple, aka it lists all grapple users:
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_2.png "default page")
 
