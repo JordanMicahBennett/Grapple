@@ -74,13 +74,13 @@ PROFILE PAGE\VINEYARD
 ============================================
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.6.png "default page")
 
-"Bunch" is the 7'th tab, and includes the grapple chrome extension (you can alternatively get the extension here, instead of from the location in SETUP/Item 1.c):
+"Bunch" is the 7'th tab, and includes the grapple chrome extension (you can alternatively get the extension here, instead of the location in SETUP/Item 1.c):
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_3.png "default page")
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/text_icon.png "default page")
 
-USAGE, GRAPPLING SOME TEXT
+USAGE, GRAPPLING TEXT
 ============================================
 
 1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
@@ -109,7 +109,7 @@ USAGE, GRAPPLING SOME TEXT
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/audio_icon.png "default page")
 
-USAGE, GRAPPLING SOME AUDIO
+USAGE, GRAPPLING AUDIO 
 ============================================
 
 1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
@@ -134,11 +134,12 @@ USAGE, GRAPPLING SOME AUDIO
 6. You can maximize each audio grapple item, by clicking on it:
 
 
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_audioGrapple_4.png "default page")
 
-![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_4.png "default page")
 
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/video_icon.png "default page")
 
-USAGE, GRAPPLING SOME VIDEO
+USAGE, GRAPPLING VIDEO
 ============================================
 
 1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
@@ -163,3 +164,65 @@ USAGE, GRAPPLING SOME VIDEO
 6. You can maximize each video grapple item, by clicking on it:
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_videoGrapple_4.png "default page")
+
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/video_icon.png "default page")
+
+
+USAGE, GRAPPLING URL OR LINK
+============================================
+
+1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
+
+2. Find some url, and right click any empty space on the page where your url is. You should see grapple option popup, with "link-grapple it!" command:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_urlGrapple_0.png "default page")
+
+3. Simply supply details to the popup, like a title etc:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_urlGrapple_1.png "default page")
+
+4. You should now see "grappled!" message on popup. 
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_urlGrapple_2.png "default page")
+
+5. Closing popup, and reloading profile page, you will see the new url item in your "my cocktail" section (5'th tab), after you click "plus" on text category and scroll down to it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_urlGrapple_3.png "default page")
+
+
+6. You can maximize each url grapple item, by clicking on it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_urlGrapple_4.png "default page")
+
+
+
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/video_icon.png "default page")
+
+
+USAGE, GRAPPLING IMAGE
+============================================
+
+1. Sign into grapple on [localhost/grapple](http://localhost/grapple/).
+
+2. Find some image, and right click directly on the image. You should see grapple option popup, with "image-grapple it!" command:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_imageGrapple_0.png "default page")
+
+3. Simply supply details to the popup, like a title etc:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_imageGrapple_1.png "default page")
+
+4. You should now see "grappled!" message on popup. 
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_imageGrapple_2.png "default page")
+
+5. Closing popup, and reloading profile page, you will see the new image item in your "my cocktail" section (5'th tab), after you click "plus" on text category and scroll down to it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_imageGrapple_3.png "default page")
+
+
+6. You can maximize each image grapple item, by clicking on it:
+
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/usage_imageGrapple_4.png "default page")
