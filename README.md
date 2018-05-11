@@ -11,6 +11,7 @@ With chrome extension compatibility, when you want to save either text, video, u
 
 Php is used to generate the entire user based ui dynamically, and this was my first attempt at writitng a soial network in 2013 and this is a bit slow!
 
+See a similar, fast, scratch written neural network by myself, called [soulify](https://github.com/JordanMicahBennett/SOULIFY), written a year later in 2014.
 
 
 
