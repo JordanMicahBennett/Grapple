@@ -38,6 +38,7 @@ SETUP
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/setup_extension_added.png "default page")
 
+2. Create database called grapple_db in xamp, and import [grapple/grapple_db.sql](https://github.com/JordanMicahBennett/Grapple/blob/master/grapple_db.sql) into the database you created.
 
 
 PROFILE PAGE
