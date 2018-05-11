@@ -198,7 +198,7 @@ USAGE, GRAPPLING URL OR LINK
 
 
 
-![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/video_icon.png "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/image_icon.png "default page")
 
 
 USAGE, GRAPPLING IMAGE
