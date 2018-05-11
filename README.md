@@ -1,4 +1,4 @@
-![Alt text](https://github.com/JordanMicahBennett/Artificial-neural-networks-for-kids/blob/master/_image_i.png "default page")
+![Alt text](https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/core/res/grapplSymbol.png "default page")
 
 
 
