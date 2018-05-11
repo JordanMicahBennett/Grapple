@@ -75,7 +75,7 @@ PROFILE PAGE\VINEYARD
 ============================================
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.6.png "default page")
 
-"Bunch" is the 7'th tab, and includes the grapple chrome extension (you can alternatively get the extension here, instead of the location in SETUP/Item 1.c):
+"Vineyard" is the 7'th tab, and includes the grapple chrome extension (you can alternatively get the extension here, instead of the location in SETUP/Item 1.c):
 
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_3.png "default page")
 
