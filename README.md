@@ -46,27 +46,36 @@ When you sign in, you'll be presented with your profile page, with some usable c
 
 PROFILE PAGE\COCKTAIL
 ============================================
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.0.png "default page")
+
 "Cocktail" is the 1'st tab, and lists everybody's grapples:
+
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_0.png "default page")
 
 
 PROFILE PAGE\MY COCKTAIL
 ============================================
-![Alt text]( "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.4.png "default page")
+
 "My Cocktail" is the 1'st tab, and lists only your grapples (whoever is signed in on your browser):
+
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_1.png "default page")
 
 PROFILE PAGE\BUNCH
 ============================================
-![Alt text]( "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.5.png "default page")
+
 "Bunch" is the 6'th tab, and lists everybody who signed up on grapple, aka it lists al grapple users:
+
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_2.png "default page")
 
 
 PROFILE PAGE\VINEYARD
 ============================================
-![Alt text]( "default page")
+![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/images/header/grapple.super.tab.item.6.png "default page")
+
 "Bunch" is the 7'th tab, and includes the grapple chrome extension (you can alternatively get the extension here, instead of from the location in SETUP/Item 1.c):
+
 ![Alt text]( https://github.com/JordanMicahBennett/Grapple/blob/master/data/miscellaneous/Screens/prrofilePage_3.png "default page")
 
 
