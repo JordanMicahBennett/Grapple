@@ -7,7 +7,7 @@ GRAPPLE!
 
 A scratch written (chrome extension compatible) social network platform that allows users to store, share and organize text, audio, video, urls and images. Storable items are called "apples" or "grapples". (Written in html/php/js/css)
 
-With chrome extension compatibility, when you want to save either text, video, url, image or audio to your grapple profile, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audio, text, image, url, video), and grappling it to your grapple profile, with a custom name etc.
+With chrome extension compatibility, when you want to save either text, video, url, image or audio to your grapple profile, grapple allows you to do this by simply right clicking on the page (for urls, youtube videos etc) or content (audio, text, image), and grappling it to your grapple profile, with a custom name etc.
 
 Apart from the large high quality image background image file used on website, php is tyrannically used to generate the entire user based ui dynamically, and this was my first attempt at writting a social network in 2013 and this is a bit slow!
 
