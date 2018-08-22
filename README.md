@@ -23,6 +23,12 @@ REQUIREMENTS
 3. Run [localhost/grapple](http://localhost/grapple/) in chrome browser.
 
 
+MORE RECENT SOCIAL NETWORKS WRITTEN BY MYSELF:
+1. [2014, Soulify](https://github.com/JordanMicahBennett/SOULIFY)
+2. [2018, Pretty Booking App](https://github.com/JordanMicahBennett/PrettyBookingApp)
+
+
+
 
 SETUP
 ============================================
